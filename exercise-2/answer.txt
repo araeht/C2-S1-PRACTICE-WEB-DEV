@@ -1,0 +1,8 @@
+Main differences between HTML and JSX syntax:
+
+_ JSX uses camelCase for attribute (className instead of class).
+_ JSX requires self closing tag.
+_ JSX allows {} to embed JavaScript
+_ JSX requires explicit values for Boolean attribute
+_ JSX uses object for styling on attribute
+_ For event handling, JSX uses camelCase (onClick instead of onclick)
